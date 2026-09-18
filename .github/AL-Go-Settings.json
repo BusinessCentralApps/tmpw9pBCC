@@ -1,0 +1,10 @@
+{
+  "type": "AppSource App",
+  "doNotPublishApps": false,
+  "shell": "pwsh",
+  "runs-on": "ubuntu-latest",
+  "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go/Actions/91b96c2b294be6f823277dafe6f03350abfb9d23/.Modules/settings.schema.json",
+  "MicrosoftTelemetryConnectionString": "",
+  "templateUrl": "https://github.com/businesscentralapps/tmpMgq6El-AppSource@main",
+  "useCompilerFolder": false
+}
